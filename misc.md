@@ -1,3 +1,2 @@
 # Miscellaneaous
-* Even if you delete boot1 (first stage bootloader) you would still be in "⍰RO" which is normally  "⍰ROM" but third m is displayed when checking. In that mode you can upload whatever you want (boot1) and it will work.
-* Which makes this thing unbrickable.
+* Bootrom is contained in SoC and tries to boot BOOT1 from SPI flash. If it is empty (checksum fails) it will just display "?RO".
