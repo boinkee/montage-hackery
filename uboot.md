@@ -5,6 +5,7 @@ WIP
 * or ?
 <br>
 Example log from WinStbUpgrader (read winstbupgrader.md):
+
 ~~~
 Serial Port Opened
 download start
