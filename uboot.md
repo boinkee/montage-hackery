@@ -3,6 +3,7 @@ WIP
 * Typical U-Boot, with additional functionality
 * You can access it from winstbupgrader > download section > select nor > select some xml file > press start
 * or ?
+<br>
 Example log from WinStbUpgrader (read winstbupgrader.md):
 ~~~
 Serial Port Opened
