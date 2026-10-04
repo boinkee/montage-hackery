@@ -2,7 +2,7 @@
 WIP 
 * Typical U-Boot, with additional functionality
 * You can access it from winstbupgrader > download section > select nor > select some xml file > press start
-* or bootrom.py --dev /dev/tty<DEVICE> ub_sym.img
+* or ?
 Example log from WinStbUpgrader (read winstbupgrader.md):
 ~~~
 Serial Port Opened
