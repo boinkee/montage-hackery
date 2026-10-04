@@ -3,6 +3,8 @@ WIP
 * Typical U-Boot, with additional functionality
 * You can access it from winstbupgrader > download section > select nor > select some xml file > press start
 * or ?
+* U-Boot is a second stage bootloader, to boot it you need a first stage bootloader (lolmon or btinit)
+
 <br>
 Example log from WinStbUpgrader (read winstbupgrader.md):
 
