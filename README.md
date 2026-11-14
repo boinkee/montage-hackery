@@ -1,5 +1,5 @@
 # Main
-You can find things in md files.
+You can find info in the wiki.
 General info:
 * Board: M31-CS8001S-V2
   * SoC: Montage LZ M88CS8001S
