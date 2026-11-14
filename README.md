@@ -11,8 +11,3 @@ General info:
 <br>
 <a href="https://ibb.co/zKy4Wm2"><img src="https://i.ibb.co/9RFrmp4/cs8001s-mb-1.jpg" alt="cs8001s-mb-1" border="0"></a>
 
-<a href=uboot.md>U-Boot documentation</a>
-
-<a href=winstbupgrader.md>WinStbUpgrader documentation</a>
-
-<a href=misc.md>Miscellaneaous</a>
