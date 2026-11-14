@@ -6,7 +6,7 @@ General info:
   * 64Mb DRAM
   * 4Mb W25Q32JV Winbond spi flash
   * Uart (5v)
-  * Mips 24kec arch
+  * mips32r2 dual core
   * Linux
 <br>
 <a href="https://ibb.co/zKy4Wm2"><img src="https://i.ibb.co/9RFrmp4/cs8001s-mb-1.jpg" alt="cs8001s-mb-1" border="0"></a>
