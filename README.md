@@ -5,7 +5,7 @@ General info:
   * SoC: Montage LZ M88CS8001S
   * 64Mb DRAM
   * 4Mb W25Q32JV Winbond spi flash
-  * Uart (sometimes 5v)
+  * Uart (5v)
   * Mips 24kec arch
   * Linux
 <br>
